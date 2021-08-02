@@ -11,4 +11,5 @@ When your server has been started there should be a new folder called Insane Ann
 
 ## Testing the plugin
 If you have followed the steps above the plugin is now running. You can now use `/announcer`
-For proxy installation please continue to the proxy installation part.
+
+**`NOTE:` For proxy installation, please continue to the proxy installation part.**
