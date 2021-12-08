@@ -1,13 +1,12 @@
 # Server Requirements
-You will need either **SpigotMC, PaperMC** or **[a similar fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** to run Insane Announcer smoothly. We recommend **[Paper](https://papermc.io/downloads).**
+For Insane Announcer to run smoothly **SpigotMC, PaperMC** or **[a similar fork](https://github.com/SpiritenHasArrived/MC/blob/main/Server_Side/server_jars.md#bukkit--a-z)** will be required. To ensure you have the best performance possible, we recommend using **[PaperMC](https://papermc.io/downloads)**.
 <br>
 
 ## Server Version
-Insane Announcer has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
+Insane Announcer is supported on all versions (release) from **1.8.8 to 1.17.1**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
 <br>
 
-**`NOTE:` Newly released versions are mainly tested on the latest version of Spigot or Paper.**
+**`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
-
 # Download The Latest Build
 Download the latest build of Insane Announcer via the resource page **[here](https://www.spigotmc.org/resources/insane-announcer.53334/)**.
