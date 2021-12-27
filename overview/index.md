@@ -7,18 +7,18 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
-- [Installation Guide](/wiki/installation) - A quick guide on how to install Insane Announcer
-- [Features](/wiki/features) - A list with all the features of Insane Announcer
+- [Commands](./overview#commands) - The list of commands
+- [Installation Guide](./installation) - A quick guide on how to install Insane Announcer
+- [Features](./features) - A list with all the features of Insane Announcer
 
-# Commands
+# Commands {#commands}
 Here is a list of all the commands that can be used.
 <br>
 
 * `/announcer`
   To open the administrative GUI
 
-# Permissions
+# Permissions {#perms}
 Here is a list of all the permissions that can be used
 <br>
 
