@@ -1,15 +1,19 @@
 # Server installation
-Once you have downloaded the latest version of Insane Announcer put its .jar file inside the `plugins` directory of your server.
-***Note:*** *Make sure to stop the server before doing this.*
+First step is to download Announcer. Once you're done with this. `Stop your server`, and put the .jar file inside the `plugins` directory of your server.
 <br>
 
-When the .jar has been uploaded you can now start your server.
+Once the .jar has been uploaded in your folder, you can start your server.
 <br>
 
-When your server has been started there should be a new folder called Insane Announcer. This means that Insane Announcer has loaded properly and can now be used.
+Once your server has started, a new folder called Insane Announcer should have been created, inside the `plugins` directory. This means that Insane Announcer has loaded properly and can now be used.
 <br>
 
 ## Testing the plugin
-If you have followed the steps above the plugin is now running. You can now use `/announcer`
+While your server is starting, look at the console for any possible [ERROR] message. Any [WARN] is not a problem, and will not disturb your use of the plugin.
 
-**`NOTE:` For proxy installation, please continue to the proxy installation part.**
+You should now be able to do `/announcer` to open the GUI.
+
+If you see a gui, that means you are good to go!
+
+
+**`NOTE:` In order for the plugin to work properly, you'll need to have Vault and an Economy plugin installed on the server**
