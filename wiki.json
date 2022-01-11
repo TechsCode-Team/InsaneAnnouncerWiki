@@ -6,9 +6,13 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-
-    }
-  },
+      "server": {
+        "commands&permissions":"Commands",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+        }
+      }
+    },
   "installation": {
     "iconType": "fas",
     "icon":"tasks",
