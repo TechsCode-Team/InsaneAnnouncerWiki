@@ -3,7 +3,7 @@ Welcome to the Wiki page of **Insane Announcer**, where you can find all the inf
 <br>
 
 ## Contact
-You can communicate with our support team by joining our **[Discord](https://discord.gg/3JuHDm8)**. It is the only way we can give you support once you have verified your purchase.
+You can communicate with our support team by joining our **[Discord](https://discord.gg/3JuHDm8)**. It is the only way we can give you support.
 <br>
 
 ## What can you find on the wiki?
