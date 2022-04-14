@@ -22,5 +22,5 @@ Here are all the features of Insane Announcer.
   This plugin is extremely easy to use & perfect for beginners
 * **`HEX & Gradient support`**
   HEXCODE support and Gradient support while making announce.
-  *Gradient: `{#RRBBGG>}Announce{#RRBBGG<}`*
-  *HEXCODE: `{#RRBBGG}Announce`*
+  *Gradient: `{#RRGGBB>}Announce{#RRGGBB<}`*
+  *HEXCODE: `{#RRGGBB}Announce`*
