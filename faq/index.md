@@ -8,6 +8,8 @@ Below you can find all the frequently asked questions of Insane Announcer. If yo
 Here are all the frequently asked questions from Insane Announcer.
 <br>
 
+* **`How can I create a empty line?`**
+  Just put "newLine" as line input and it will automatically create an empty line out of it
 * **`How can i make suggestions?`**
   You can make suggestions at our [feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)
 * **`Does the plugin support Velocity?`**
