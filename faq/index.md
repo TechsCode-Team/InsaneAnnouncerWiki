@@ -11,6 +11,6 @@ Here are all the frequently asked questions from Insane Announcer.
 * **`How can I create a empty line?`**
   Just put "newLine" as line input and it will automatically create an empty line out of it
 * **`How can i make suggestions?`**
-  You can make suggestions at our [feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)
+  You can make suggestions at our [Discord Server](https://discord.gg/3JuHDm8s)
 * **`Does the plugin support Velocity?`**
   At the moment it does not support Velocity, but in the future it will
